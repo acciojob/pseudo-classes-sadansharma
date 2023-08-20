@@ -21,11 +21,11 @@ li:nth-child(3){
 	background-color:pink;
 }
 p:first-child(1){
-	font-color:white;
+	color:white;
 	background-color:black;
 }
 p:nth-child(2){
-	text-color:blue;
+	color:blue;
 }
 p::last-child{
 	color:red;
