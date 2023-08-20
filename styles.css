@@ -24,3 +24,6 @@ p:first-line{
 	color:white;
 	background-color:black;
 }
+p::last-line{
+	color:red;
+}
